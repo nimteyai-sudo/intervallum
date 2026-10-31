@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "mechanic": "graph_read",
+    "ku_ids": [
+      2,
+      8
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 131.5034027746599,
+    "b_difficulty": -0.08369619281702581,
+    "a_discrimination": 1.439534528097614,
+    "expert_difficulty": 3,
+    "topic_id": 1,
+    "section_id": 1,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 2,
+    "mechanic": "draw_forces",
+    "ku_ids": [
+      8
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 39.63216559682865,
+    "b_difficulty": 0.5533784703532895,
+    "a_discrimination": 2.0194767600023833,
+    "expert_difficulty": 4,
+    "topic_id": 4,
+    "section_id": 4,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 3,
+    "mechanic": "graph_read",
+    "ku_ids": [
+      1,
+      3,
+      7
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 136.12433510057662,
+    "b_difficulty": -0.9807473560440125,
+    "a_discrimination": 0.7277758265053161,
+    "expert_difficulty": 2,
+    "topic_id": 1,
+    "section_id": 1,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 4,
+    "mechanic": "draw_forces",
+    "ku_ids": [
+      1
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 78.74139668634092,
+    "b_difficulty": -0.304337750958489,
+    "a_discrimination": 1.0048792541718472,
+    "expert_difficulty": 3,
+    "topic_id": 1,
+    "section_id": 1,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 5,
+    "mechanic": "predict_change",
+    "ku_ids": [
+      1,
+      3,
+      8
+    ],
+    "c_guess": 0.11,
+    "t_expected_sec": 65.32746859592572,
+    "b_difficulty": 1.1702961011782933,
+    "a_discrimination": 1.8984092364447012,
+    "expert_difficulty": 4,
+    "topic_id": 1,
+    "section_id": 1,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 6,
+    "mechanic": "match_order",
+    "ku_ids": [
+      2
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 65.42911925937952,
+    "b_difficulty": 0.033057220158269195,
+    "a_discrimination": 1.4595775021323565,
+    "expert_difficulty": 3,
+    "topic_id": 1,
+    "section_id": 1,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 7,
+    "mechanic": "free_response",
+    "ku_ids": [
+      3
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 85.1821108367275,
+    "b_difficulty": 0.9620005318430944,
+    "a_discrimination": 1.967390202210415,
+    "expert_difficulty": 4,
+    "topic_id": 2,
+    "section_id": 2,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 8,
+    "mechanic": "draw_forces",
+    "ku_ids": [
+      2,
+      3,
+      5
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 131.15845723301442,
+    "b_difficulty": 0.5682130997882933,
+    "a_discrimination": 1.8121325050417192,
+    "expert_difficulty": 4,
+    "topic_id": 1,
+    "section_id": 1,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 9,
+    "mechanic": "dim_check",
+    "ku_ids": [
+      4,
+      7,
+      8
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 125.30801998360661,
+    "b_difficulty": 1.350388867744626,
+    "a_discrimination": 1.738333411967245,
+    "expert_difficulty": 5,
+    "topic_id": 2,
+    "section_id": 2,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 10,
+    "mechanic": "numeric",
+    "ku_ids": [
+      3,
+      7
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 87.07130559649855,
+    "b_difficulty": -0.15236188875684828,
+    "a_discrimination": 1.8969008291455316,
+    "expert_difficulty": 3,
+    "topic_id": 2,
+    "section_id": 2,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 11,
+    "mechanic": "free_response",
+    "ku_ids": [
+      1,
+      2,
+      5
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 52.92975347185093,
+    "b_difficulty": -1.282491794740462,
+    "a_discrimination": 1.913265713552005,
+    "expert_difficulty": 1,
+    "topic_id": 1,
+    "section_id": 1,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 12,
+    "mechanic": "draw_forces",
+    "ku_ids": [
+      3,
+      6,
+      8
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 77.59167604150736,
+    "b_difficulty": -1.2720782100976422,
+    "a_discrimination": 2.137784499699057,
+    "expert_difficulty": 1,
+    "topic_id": 2,
+    "section_id": 2,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 13,
+    "mechanic": "find_error",
+    "ku_ids": [
+      1,
+      2
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 168.55148771366018,
+    "b_difficulty": -0.05409396159544828,
+    "a_discrimination": 2.1024416412799756,
+    "expert_difficulty": 3,
+    "topic_id": 1,
+    "section_id": 1,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 14,
+    "mechanic": "free_response",
+    "ku_ids": [
+      3
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 53.58892306260668,
+    "b_difficulty": -0.20476611683386706,
+    "a_discrimination": 1.9348780270540475,
+    "expert_difficulty": 3,
+    "topic_id": 2,
+    "section_id": 2,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 15,
+    "mechanic": "graph_read",
+    "ku_ids": [
+      1,
+      3
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 109.06597148356238,
+    "b_difficulty": -0.5197597723701788,
+    "a_discrimination": 0.9096839478140744,
+    "expert_difficulty": 2,
+    "topic_id": 1,
+    "section_id": 1,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 16,
+    "mechanic": "find_error",
+    "ku_ids": [
+      5
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 159.65633446516986,
+    "b_difficulty": 0.4791181507969435,
+    "a_discrimination": 0.8593930767981358,
+    "expert_difficulty": 4,
+    "topic_id": 3,
+    "section_id": 3,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 17,
+    "mechanic": "find_error",
+    "ku_ids": [
+      4
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 59.273928239547935,
+    "b_difficulty": 0.9070489576858102,
+    "a_discrimination": 0.7041178096123567,
+    "expert_difficulty": 4,
+    "topic_id": 2,
+    "section_id": 2,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 18,
+    "mechanic": "graph_read",
+    "ku_ids": [
+      2,
+      8
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 130.04895657808208,
+    "b_difficulty": 1.0688166937495658,
+    "a_discrimination": 1.3821397278738718,
+    "expert_difficulty": 4,
+    "topic_id": 1,
+    "section_id": 1,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 19,
+    "mechanic": "formula_derive",
+    "ku_ids": [
+      1,
+      2,
+      3
+    ],
+    "c_guess": 0.0,
+    "t_expected_sec": 105.20358066256892,
+    "b_difficulty": -1.0592560998278446,
+    "a_discrimination": 1.8062004741853406,
+    "expert_difficulty": 2,
+    "topic_id": 1,
+    "section_id": 1,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 20,
+    "mechanic": "mcq_single",
+    "ku_ids": [
+      4,
+      5,
+      7
+    ],
+    "c_guess": 0.25,
+    "t_expected_sec": 60.48219106417978,
+    "b_difficulty": 0.2965612469178253,
+    "a_discrimination": 1.020452701523849,
+    "expert_difficulty": 3,
+    "topic_id": 2,
+    "section_id": 2,
+    "text": "Synthetic task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  }
+]
